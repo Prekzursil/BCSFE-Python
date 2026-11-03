@@ -20,7 +20,7 @@ classifiers = [
 dependencies = [
   "aenum",
   "colored==1.4.4",
-  "pyjwt",
+"pyjwt>=2.15.0",
   "requests",
   "pyyaml",
   "beautifulsoup4",

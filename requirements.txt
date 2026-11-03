@@ -1,6 +1,6 @@
 aenum==3.1.16
 colored==1.4.4
-PyJWT==2.13.0
+PyJWT==2.15.0
 PyYAML==6.0.2
 Requests>=2.33.0,<3
 beautifulsoup4==4.13.4
